@@ -1,0 +1,2 @@
+# Music-Streaming-Services-Comparison
+Music Streaming Services Comparison  A sleek, interactive web app that compares top music streaming platforms—Apple Music, YouTube Music, and Spotify—across essential performance metrics. Visualize differences in audio quality, music discovery algorithms, value, and platform integration using dynamic bar, radar, and trend charts. Perfect for audiophiles, tech enthusiasts, and anyone deciding on their next music service. Built for clarity, insight, and engaging data exploration.
